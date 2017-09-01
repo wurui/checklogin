@@ -5,7 +5,7 @@
         <domain>local</domain>
     </env>
     <login>
-        <uid>git/wurui</uid>
+        <uid></uid>
     </login>
     <p>
         <title>demo page</title>
